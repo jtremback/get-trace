@@ -1,8 +1,9 @@
 {
   "name": "get-trace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gives you a stack trace. Optionally returns only the trace at a certain depth in the stack.",
   "main": "index.js",
+  "repository": "https://github.com/jtremback/get-trace",
   "author": "jehan.tremback@gmail.com",
   "license": "MIT"
 }
