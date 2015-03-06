@@ -1,0 +1,14 @@
+{
+  "name": "stacker",
+  "version": "1.0.0",
+  "description": "Gives you a stack trace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "author": "jehan.tremback@gmail.com <you@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  }
+}
