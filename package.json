@@ -1,14 +1,12 @@
 {
-  "name": "stacker",
+  "name": "get-trace",
   "version": "1.0.0",
-  "description": "Gives you a stack trace.",
+  "description": "Gives you a stack trace. Optionally returns only the trace at a certain depth in the stack.",
   "main": "index.js",
   "scripts": {
     "test": "node test/"
   },
-  "author": "jehan.tremback@gmail.com <you@example.com>",
+  "author": "jehan.tremback@gmail.com",
   "license": "MIT",
-  "dependencies": {
-    "chalk": "^1.0.0"
-  }
+  "dependencies": {}
 }
